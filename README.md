@@ -10,8 +10,6 @@ importer le fichier de script ArchiLogiciel.sql pour créer les tables et les do
 ## Back-end
 Build et lancer le projet
 
-plus d'informations dans le README du dossier Back-MNS
-
 ## Front-end
 Installer les dépendances et lancer le serveur
 
